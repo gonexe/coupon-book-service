@@ -13,7 +13,7 @@
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/coupon-management-system.git
+    git clone https://github.com/gonexe/coupon-book-service
     cd coupon-management-system
     ```
 
