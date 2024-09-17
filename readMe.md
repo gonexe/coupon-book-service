@@ -190,3 +190,7 @@ JWT_SECRET: Secret key for JWT.
 ## Author
 
 This project was created by Gonzalo Avila.
+
+## Disclaimer
+
+This code should not be modified without the explicit approval of the author.
