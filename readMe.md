@@ -2,7 +2,7 @@
 
 ## Technologies Used
 
-- **Languages**: TypeScript, Express
+- **Languages**: TypeScript, Express (Node.js)
 - **Database**: PostgreSQL (using Sequelize ORM)
 - **Package Management**: npm
 - **Testing**: Jest (for unit tests)
